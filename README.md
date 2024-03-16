@@ -4,9 +4,9 @@ Challenge Overview:
 The challenge is to craft SQL queries to extract insights from the Gemini Vs Chatgpt database.
 
 Tables:
-Models
-Capabilities
-Benchmarks
+1.Models
+2.Capabilities
+3.Benchmarks
 
 Concepts Covered
 ✅ Aggregated Functions: SUM, COUNT, AVERAGE
